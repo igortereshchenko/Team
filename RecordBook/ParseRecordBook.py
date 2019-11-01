@@ -1,4 +1,7 @@
 
+def new_f():
+    pass
+
 def parse_record_book(text=''):
     """
 
